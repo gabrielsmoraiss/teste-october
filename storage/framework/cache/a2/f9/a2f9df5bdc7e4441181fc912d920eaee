@@ -1,4 +1,4 @@
-1502418230a:1:{s:13:"blog/post.htm";a:12:{s:8:"fileName";s:13:"blog/post.htm";s:7:"content";s:2052:"title = "Blog Post"
+1502457261a:1:{s:13:"blog/post.htm";a:12:{s:8:"fileName";s:13:"blog/post.htm";s:7:"content";s:2052:"title = "Blog Post"
 url = "/blog/post/:slug"
 layout = "default"
 description = "Viewing a single blog post"
@@ -70,7 +70,7 @@ function onEnd()
         {% endif %}
     </nav>
 </div>
-";s:5:"mtime";i:1502413585;s:6:"markup";s:1644:"{% set image = post.featured_images.first %}
+";s:5:"mtime";i:1502453701;s:6:"markup";s:1644:"{% set image = post.featured_images.first %}
 {% set nextPost = blogPost.nextPost %}
 {% set lastPost = blogPost.previousPost %}
 

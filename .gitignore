@@ -7,6 +7,3 @@ composer.phar
 .env.*.php
 .env.php
 composer.lock
-
-# for netbeans
-nbproject

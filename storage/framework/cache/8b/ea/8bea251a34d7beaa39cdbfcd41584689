@@ -1,4 +1,4 @@
-1502418230a:1:{s:17:"blog/category.htm";a:13:{s:8:"fileName";s:17:"blog/category.htm";s:7:"content";s:638:"title = "Blog Category"
+1502457261a:1:{s:17:"blog/category.htm";a:13:{s:8:"fileName";s:17:"blog/category.htm";s:7:"content";s:638:"title = "Blog Category"
 url = "/blog/category/:slug/:page?"
 layout = "default"
 description = "Viewing blog posts in a specific category."
@@ -29,7 +29,7 @@ less[] = "pages/blog.less"
 <div class="blog-posts">
     {% partial 'blog/posts' %}
 </div>
-";s:5:"mtime";i:1502413585;s:6:"markup";s:142:"<div class="category-title">
+";s:5:"mtime";i:1502453701;s:6:"markup";s:142:"<div class="category-title">
     <h1>Category: {{ category.name }}</h1>
 </div>
 
